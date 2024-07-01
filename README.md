@@ -15,6 +15,7 @@ Outline Adder is a small project that was made in order to add Outlines to PDF b
 # Installation
 [(Back to top)](#table-of-contents)
 
+Install using:
 ```shell
 git clone https://github.com/Korkii/OutlineToSecretsOfReversing
 pip install -r requirements.txt
@@ -24,5 +25,8 @@ pip install -r requirements.txt
 # Usage
 [(Back to top)](#table-of-contents)
 
+Install using:
+```shell
 python .\OutlineAdder.py
+```
 
